@@ -39,7 +39,7 @@
 Python frameworks:
 
 
-![My Skills]("https://spng.pngfind.com/pngs/s/128-1286693_flask-framework-logo-svg-hd-png-download.png) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html)
+![My Skills](https://skillicons.dev/icons?i=flask&perline=10) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html)
 
 <br>
 
