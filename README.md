@@ -13,10 +13,11 @@
   
 🎯I am currently exploring the world of Computing
 </div>
+
 <div align="left">
 <br>
-
-### [My Portfolio](https://jetstar10.github.io/Portfolio/)
+📋: My Portfolio:
+### (https://jetstar10.github.io/Portfolio/)
 
 </div>
 
