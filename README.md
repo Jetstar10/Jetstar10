@@ -51,6 +51,7 @@ Python frameworks:
 
 ### IDEs used:
 <img align="left" height="50" src="https://camo.githubusercontent.com/fb6238b3b65a06550fd5caee8cc71b544011fc5b20e748610514ade292f67d7e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33382f4a7570797465725f6c6f676f2e7376672f3132303070782d4a7570797465725f6c6f676f2e7376672e706e67"  />
+![My Skills](https://skillicons.dev/icons?i=visualstudio&perline=10)
 
 
 ###
