@@ -65,7 +65,7 @@ Python frameworks:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jetstar10&theme=aura_dark)
 
-<p align="center">
+<p align="left">
 <img src=https://leetcard.jacoblin.cool/Jett_packk?theme=dark&font=Caveat%20Brush>
 </p>
 
