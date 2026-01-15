@@ -16,8 +16,7 @@
 
 <div align="left">
 <br>
-📋: My Portfolio:
-### (https://jetstar10.github.io/Portfolio/)
+📋: My Portfolio: https://jetstar10.github.io/Portfolio/
 
 </div>
 
