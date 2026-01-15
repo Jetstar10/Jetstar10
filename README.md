@@ -62,8 +62,9 @@ Python frameworks:
 <br>
   
 ### [Github](https://github.com/Masterjet21) and [LeetCode](https://leetcode.com/Jett_packk/) stats
-<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jetstar10&theme=aura_dark)
+
 <p align="center">
 <img src=https://leetcard.jacoblin.cool/Jett_packk?theme=dark&font=Caveat%20Brush>
 </p>
