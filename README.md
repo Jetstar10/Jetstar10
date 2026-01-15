@@ -39,7 +39,7 @@
 Python frameworks:
 
 <div align="left">
-<img align="left" height="50" src="https://spng.pngfind.com/pngs/s/128-1286693_flask-framework-logo-svg-hd-png-download.png"  />
+<img align="left" height="50" src="https://spng.pngfind.com/pngs/s/128-1286693_flask-framework-logo-svg-hd-png-download.png"  /> ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=css) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html)
 </div>
 <br>
 
