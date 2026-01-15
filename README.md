@@ -63,7 +63,7 @@ Python frameworks:
   
 ### [Github](https://github.com/Masterjet21) and [LeetCode](https://leetcode.com/Jett_packk/) stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MasterJet21&theme=calm&show_icons=true&hide_border=true&count_private=true" height="300" alt="stats graph"  />
+![](https://github-readme-stats.vercel.app/api?username=MasterJet21&theme=calm&show_icons=true&hide_border=true&count_private=true)
 <p align="center">
 <img src=https://leetcard.jacoblin.cool/Jett_packk?theme=dark&font=Caveat%20Brush>
 </p>
