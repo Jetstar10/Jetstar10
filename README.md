@@ -50,7 +50,7 @@ Python frameworks:
 <div align="left">
 
 ### IDEs used:
-<img align="left" height="50" src="https://pictureyou-neo.github.io/2020/09/15/vsc-visual-studio-code/vsc_logo.png"  />
+<img align="left" height="50" src="https://logodix.com/logo/1741467.jpg"  />
 
 ![My Skills](https://skillicons.dev/icons?i=visualstudio&perline=10)
 
